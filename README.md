@@ -15,3 +15,6 @@ elasticsearch 7.9
 # 目录
 
 - [索引模块](./Index_Modules/README.md) 
+  - [Analysis](./Index_Modules/Analysis.md)
+  - [Index Shard Allocation](./Index_Modules/Index_Shard_Allocation.md)
+  - [Index-level Shard Allocation Filtering](./Index_Modules/Index-level_Shard_Allocation_Filtering.md)
